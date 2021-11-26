@@ -1,1 +1,2 @@
 *.data filter=lfs diff=lfs merge=lfs -text
+MinoryUnityProject/ filter=lfs diff=lfs merge=lfs -text
